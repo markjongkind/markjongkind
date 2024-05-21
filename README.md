@@ -16,6 +16,5 @@ Hi! I’m Mark &mdash; a web developer and media enthusiast. I craft UIs and inn
 ![](https://img.shields.io/badge/-npm-informational?style=flat&logo=npm&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/-Apache-informational?style=flat&logo=apache&logoColor=white&color=539bf5)
 ![](https://img.shields.io/badge/-SublimeText-informational?style=flat&logo=sublimetext&logoColor=white&color=539bf5)
-![](https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=539bf5)
 
 📮 &nbsp;&nbsp;Reach me on [LinkedIn](https://www.linkedin.com/in/markjongkind/) or [www.backscreen.nl](https://www.backscreen.nl).
