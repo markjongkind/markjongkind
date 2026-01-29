@@ -1,4 +1,4 @@
-Hi! I’m Mark &mdash; a web developer and media enthusiast. I craft UIs and innovate web solutions with code and creativity and love the combination of tech, media, livestreaming, and music.
+Hi! I’m Mark, a web developer and media enthusiast. I craft UIs and innovate web solutions with code and creativity and love the combination of tech, media, livestreaming, and music.
 
 👨🏼‍💻 &nbsp;&nbsp;I co-founded [StreamPush](https://streampush.co/), the state-of-the-art video live stream playout platform for 24/7 music streams. StreamPush® helps record labels to boost YouTube performance while promoting and monetizing their catalog via custom 24/7 live streams.
 
